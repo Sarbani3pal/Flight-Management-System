@@ -14,7 +14,7 @@ Object-Oriented Design: The system is designed using object-oriented principles.
 MySQL: The database management system used to store flight, passenger, and reservation data.
 Usage:
 
-Clone the repository: git clone https://github.com/Sarbani3pal/Flight-Management-System-Java.git
+Clone the repository: git clone https://github.com/Sarbani3pal/Flight-Management-System.git
 Open the project in your favorite Java IDE.
 Build and run the application.
 Use the provided user interface to interact with the Flight Management System.
